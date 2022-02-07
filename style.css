@@ -1,0 +1,41 @@
+body{
+    text-align: center;
+    color: lawngreen;
+    background-image: url("https://thumbs.gfycat.com/UnluckyEthicalBlackfootedferret-size_restricted.gif");
+     background-size: cover;   
+}
+h1{
+    font-size: 50px;
+    font-weight: 300;
+    font-family: cursive;
+}
+.line{
+    height: 7px;
+    background-color: cornsilk;
+    width: 80px;
+    margin: 8px auto;    
+}
+
+.container
+{
+    text-align: center;
+}
+#myCarousel
+{
+    background-color: coral;
+}
+
+#myCarousel img
+{
+    height: 300px;
+    margin-top: 35px;
+}
+
+.carousel-inner p
+{
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color : white;
+    font-size: 20px;
+}
+
